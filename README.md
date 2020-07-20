@@ -1,2 +1,2 @@
-# Competi-oDeNata-o
+# CompetiçaoDeNataçao
 PHP
